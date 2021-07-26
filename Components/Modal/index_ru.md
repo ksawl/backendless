@@ -2,7 +2,7 @@
 
 _Пошаговое руководство по созданию модального окна_
 
-Пример компонента можно посмотреть **[demo](https://eu.backendlessappcontent.com/8AAA8E74-06F7-48FD-9154-1AA3227BFA24/D8E91033-BD89-40C0-9FD9-126973003E38/files/web/app/index.html?page=Modal)**
+Пример компонента можно посмотреть **[demo](https://www.backendless.us/modal-window/index.html)**
 
 ## Disclaimer
 
